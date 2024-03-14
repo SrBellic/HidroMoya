@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta copyright="Bellic">
+	<meta name="copyright" content="Bellic">
 	<title>HidroMoya</title>
     <link rel="stylesheet" href="css/css/bootstrap.min.css">
     <!link rel="stylesheet" href="css/custom/custom.css">
