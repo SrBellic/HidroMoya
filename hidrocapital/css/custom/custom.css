@@ -1,0 +1,38 @@
+.cont-center{
+    display: grid;
+    place-items: center;
+}
+
+.cuadro{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bg_color-White{
+    background-color: #f8f3f3;
+}
+
+.cont-justify{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg_color-Blue{
+    background-color: blue;
+}
+
+.bg_color-BlueLight{
+    background-color: #a7c0f5;
+}
+.bg_color-BlueSea{
+    background-color: #dee8fd;
+}
+
+.bg_img{
+    background-image: url('../../img/fondo.jpg'); /* Ajusta la ruta según la ubicación de tu imagen */
+    background-size: cover; /* Para asegurarse de que la imagen cubra todo el fondo */
+    /*background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
